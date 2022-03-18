@@ -4,7 +4,7 @@ body{
 }
 
 .sub-container{
-    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-image: url(./assets/backgrounds/h_img.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -38,7 +38,18 @@ body{
 
 .header-2{
     text-align: center;
+    background-image: url(./assets/backgrounds/c_image.jpg);
 }
 .header-3{
     text-align: center;
+    padding-top: 80px;
+    color: #fff;
+    background-image: url(./assets/backgrounds/s_image.jpg);
 }
+.header-4{
+    text-align: center;
+}
+.portfolio{
+    text-align: center;
+}
+
