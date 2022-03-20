@@ -8,7 +8,7 @@ Designed by Mohamed Lee
 This program is easy to install and does not require any specifications for installation Computer with i5 processor This site can be viewed at https://github.com/Mohamedlee27/Delani
 
 ## Description
-This is a Delani web page to
+This is a Delani web page to help  practice and understand better the concepts tof jquery and bootstrap
 
 ## Bug Reports
 No bugs have been identified so far but if so, kindly reach out to me
