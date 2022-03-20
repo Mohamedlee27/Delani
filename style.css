@@ -66,43 +66,43 @@ body{
     text-align: center;
 }
 .work-logo-1 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-2 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-3 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-4 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-5 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-6 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-7 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 
 .work-logo-8 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 .first-text-row{
    padding: 25px;
@@ -135,3 +135,15 @@ body{
     color: #fff;
     
 }
+.design-info{
+    display: none;
+}
+
+.development-info{
+    display: none;
+}
+
+.project-text{
+    display: none;
+}
+
